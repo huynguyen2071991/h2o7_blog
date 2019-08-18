@@ -56,3 +56,5 @@ collections:
 </figure>
 
 <!-- blank line -->
+
+![test](/media/screen-shot-2019-08-17-at-15.29.40.png "test")
