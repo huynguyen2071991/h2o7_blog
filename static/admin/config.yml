@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  branch: huynguyen2071991/h2o7_blog
 
 media_folder: "static/media"
 public_folder: "/media"
